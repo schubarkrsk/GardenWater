@@ -7,7 +7,7 @@ from misc import configurator, navigation
 
 
 async def main():
-    await server.controller.run_pump(1)
+    await server.controller.run_pump(1)  # TODO: Delete after test
 
 
 if __name__ == "__main__":
