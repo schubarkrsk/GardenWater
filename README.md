@@ -1,5 +1,5 @@
 # GARDEN WATER
-Client-Server application to control water in your gardent by timer
+Client-Server application to control water in your garden by timer
 
 Server is Python software
 
